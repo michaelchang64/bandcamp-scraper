@@ -2,7 +2,7 @@ import os, sys, requests, json, re
 from bs4 import BeautifulSoup
 
 # redirects things going to stdout to filename
-sys.stdout = open('output_1_track.txt', 'w')
+sys.stdout = open('stdout.txt', 'w')
 url = sys.argv[1]
 download_dir = sys.argv[2]
 
