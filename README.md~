@@ -4,7 +4,7 @@ This bad boy can download so many mp3's from Bandcamp!!!
 
 I wrote this while procrastinating on my other psets because learning how to webscrape with Python was *clearly* more important.
 
-After you download all the dependencies (actually just `pip install bs4` and you're good lmao), Rrn it like so:
+After you download all the dependencies (actually just `pip install bs4` and you're good lmao), Run it like so:
 ```
 python3 bandcamp_scrape.py "your_url.bandcamp.com/blahblah" "/file/path/to/store/mp3s/in"
 ```
