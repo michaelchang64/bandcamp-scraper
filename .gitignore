@@ -1,5 +1,9 @@
 .DS_Store
 *~
 Test/
+venv/
 Pipfile*
 stdout*
+*.json
+*.csv
+stdout.txt
